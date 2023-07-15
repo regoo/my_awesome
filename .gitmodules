@@ -1,0 +1,3 @@
+[submodule "sysadmin"]
+  path = sysadmin
+  url = https://github.com/kahun/awesome-sysadmin
